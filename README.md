@@ -2,7 +2,7 @@
   <img src="build/icon.png" width="128">
 </div>
 
-<h1 align="center">ADBPlus</h1>
+<h1 align="center">ADroid Commander</h1>
 
 <div align="center">
 
